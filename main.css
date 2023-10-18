@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#top {
+  text-align: center;
+}
+#top h2 {
+  color: orangered;
+  padding: 25px;
+  font-size: 45px;
+  -webkit-animation-duration: 6s;
+          animation-duration: 6s;
+}
+#top input {
+  font-size: 18px;
+  padding-left: 30px;
+  border-radius: 20px;
+  background-color: azure;
+}
+#top button {
+  font-size: 25px;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  cursor: pointer;
+}
+#top button:hover {
+  transition: 1s;
+  background-color: rgb(5, 53, 53);
+  font-size: 30px;
+  color: #fff;
+}/*# sourceMappingURL=main.css.map */
